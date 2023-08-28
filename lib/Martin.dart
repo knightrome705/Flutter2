@@ -12,7 +12,7 @@ class _MartinState extends State<Martin> {
   @override
 
   Widget build(BuildContext context) {
-    print("ui loaded");
+    print("ui once loaded");
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.red,
